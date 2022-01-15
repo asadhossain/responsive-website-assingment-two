@@ -107,3 +107,28 @@ header {
 
 }
 
+
+/* icon section style  */
+
+.top {
+    margin-top: 100px;
+}
+.top, .bottom {
+    opacity: .3;
+}
+.top, .icons, .bottom {
+    margin-left: 60px;
+    margin-right: 60px; }
+
+
+.svg-icons {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    }
+.illustration {
+    margin: 36px 20px;
+
+}
+
